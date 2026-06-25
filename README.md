@@ -168,19 +168,8 @@ predictive_maintenance/
 ├── README.md
 └── database
 ```
-
----
-
-## Future Improvements
-Possible next steps:
-- Hyperparameter tuning
-- Cross-validation
-- XGBoost / LightGBM
-- SHAP explainability
-- Deployment with Streamlit
-- MLOps pipeline for production
-
 ---
 
 ## Author
 **Suzana Faria**
+
